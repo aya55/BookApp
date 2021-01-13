@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="string">المزيد</string>
+    <string name="strings">الأكثر قراءه</string>
+    <string name="recentlyadded">المضاف حديثا </string>
+    <string name="book_name">Book Name</string>
+    <string name="description">Description</string>
+</resources>
